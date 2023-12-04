@@ -1,4 +1,4 @@
-# sql-challenge
+# Module 9 Challenge - sql-challenge
 Module 9 Challenge
 Due Wednesday by 11:59pm Points 100 Submitting a text entry box or a website url
 Background
