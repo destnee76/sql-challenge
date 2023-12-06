@@ -1,12 +1,11 @@
 # Module 9 Challenge - sql-challenge
-Module 9 Challenge
 Due Wednesday by 11:59pm Points 100 Submitting a text entry box or a website url
 Background
 It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 
 For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
 
-#Before You Begin
+# Before You Begin
 Create a new repository for this project called sql-challenge. Do not add this assignment to an existing repository.
 
 Clone the new repository to your computer.
@@ -15,18 +14,18 @@ Inside your local Git repository, create a directory for this Challenge. Use a f
 
 Note that you’ll add your files to this folder and push the changes to GitHub.
 
-#Files
+# Files
 Download the following files to help you get started:
 
 Module 9 Challenge filesLinks to an external site.
 
-#Instructions
+# Instructions
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
 
-#Data Modeling
+# Data Modeling
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBDLinks to an external site..
 
-#Data Engineering
+# Data Engineering
 Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 
 Remember to specify the data types, primary keys, foreign keys, and other constraints.
@@ -38,7 +37,7 @@ Be sure to create the tables in the correct order to handle the foreign keys.
 Import each CSV file into its corresponding SQL table.
 
 HINT
-**Data Analysis
+  ** Data Analysis
 List the employee number, last name, first name, sex, and salary of each employee.
 ![image](https://github.com/destnee76/sql-challenge/assets/145588037/9610f9f1-5786-4a53-acaa-ade1cf45c9b1)
 
