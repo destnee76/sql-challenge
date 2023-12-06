@@ -38,7 +38,7 @@ Be sure to create the tables in the correct order to handle the foreign keys.
 Import each CSV file into its corresponding SQL table.
 
 HINT
-Data Analysis
+*Data Analysis
 List the employee number, last name, first name, sex, and salary of each employee.
 ![image](https://github.com/destnee76/sql-challenge/assets/145588037/9610f9f1-5786-4a53-acaa-ade1cf45c9b1)
 
