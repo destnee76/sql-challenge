@@ -40,6 +40,8 @@ Import each CSV file into its corresponding SQL table.
 HINT
 Data Analysis
 List the employee number, last name, first name, sex, and salary of each employee.
+![image](https://github.com/destnee76/sql-challenge/assets/145588037/9610f9f1-5786-4a53-acaa-ade1cf45c9b1)
+
 
 List the first name, last name, and hire date for the employees who were hired in 1986.
 
