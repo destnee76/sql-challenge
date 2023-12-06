@@ -42,20 +42,26 @@ Data Analysis
 List the employee number, last name, first name, sex, and salary of each employee.
 ![image](https://github.com/destnee76/sql-challenge/assets/145588037/9610f9f1-5786-4a53-acaa-ade1cf45c9b1)
 
-
 List the first name, last name, and hire date for the employees who were hired in 1986.
+![image](https://github.com/destnee76/sql-challenge/assets/145588037/5990f497-f0e5-4f64-b35e-a8373da6d8f1)
 
 List the manager of each department along with their department number, department name, employee number, last name, and first name.
+![image](https://github.com/destnee76/sql-challenge/assets/145588037/3fb945cd-53fa-4303-acfa-ba97e0347bba)
 
 List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
+![image](https://github.com/destnee76/sql-challenge/assets/145588037/8805b7ae-321e-4855-bf87-1a11eaf53f88)
 
 List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
+![image](https://github.com/destnee76/sql-challenge/assets/145588037/b4e22fba-375e-4f50-8876-a35da9bcbb84)
 
 List each employee in the Sales department, including their employee number, last name, and first name.
+![image](https://github.com/destnee76/sql-challenge/assets/145588037/5ea3c927-98e9-4b93-b678-d2571dcb27f1)
 
 List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
+![image](https://github.com/destnee76/sql-challenge/assets/145588037/ae0c2ae3-6747-4876-8e85-3f80d5d01821)
 
 List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+![image](https://github.com/destnee76/sql-challenge/assets/145588037/3a2c6d6e-4303-4e41-b911-c72a0d452d48)
 
 Requirements
 Data Modeling (10 points)
