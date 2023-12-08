@@ -13,13 +13,13 @@ SELECT
 
 --List the first name, last name, and hire date for the employees who were hired in 1986 (2 points)
 SELECT
-		e.last_name,
 		e.first_name,
+		e.last_name,
 		e.hire_date
 		
 FROM employees AS e
 
-WHERE e.hire_date between '1986-06-01' and '1986-06-29'
+WHERE e.hire_date between '1986-01-01' and '1986-12-31'
 ;
 
 --List the manager of each department along with their department number, department name, employee number, last name, and first name (2 points)
