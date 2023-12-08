@@ -40,7 +40,7 @@ FROM 	dept_manager as dm
 
 --List the department number for each employee along with that employee’s employee number, last name, first name, and department name (2 points)
 SELECT
-		e.emp_no,
+		dm.emp_noe.emp_no,
 		e.last_name,
 		e.first_name,
 		d.dept_name
