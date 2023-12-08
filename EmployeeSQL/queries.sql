@@ -24,9 +24,10 @@ WHERE e.hire_date between '1986-01-01' and '1986-12-31'
 
 --List the manager of each department along with their department number, department name, employee number, last name, and first name (2 points)
 SELECT
+		dm.emp_no AS manager_emp_no,
 		dm.dept_no,
 		d.dept_name,
-		e.emp_title_id,
+		e.emp_no,
 		e.last_name,
 		e.first_name
 
